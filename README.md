@@ -35,8 +35,8 @@ A minimal Rust application demonstrating live network packet capture using the `
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/siren.git
-cd siren
+git clone https://github.com/hamzaazer/Passive-Network-Credential-Harvester.git
+cd Passive-Network-Credential-Harvester
 ```
 
 ### Build
@@ -105,7 +105,7 @@ cargo run --release
 or
 
 ```bash
-./target/release/siren
+./target/release/main.sr
 ```
 
 ---
@@ -114,11 +114,9 @@ or
 
 ```
 siren/
-├── Cargo.toml
-├── Cargo.lock
+
 ├── README.md
-└── src
-    └── main.rs
+└──  main.rs
 ```
 
 ---
